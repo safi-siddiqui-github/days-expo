@@ -4,7 +4,7 @@
     "slug": "days",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/layout/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/icon.png",
+        "foregroundImage": "./assets/images/layout/icon.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.safiexpo.days"
@@ -21,17 +21,17 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/icon.png"
+      "favicon": "./assets/images/layout/icon.png"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/logo.png",
+          "image": "./assets/images/layout/logo.png",
           "backgroundColor": "#1D4ED8",
           "dark": {
-            "image": "./assets/images/logo-dark.png",
+            "image": "./assets/images/layout/logo-dark.png",
             "backgroundColor": "#000000"
           },
           "resizeMode": "contain"

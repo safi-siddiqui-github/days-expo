@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <View className="p-5">
       <Text className="text-xl">Home</Text>
-      <Link href={"/(onBoarding)/screenOne"}>On Boarding</Link>
+      <Link href={"/(onBoarding)/onBoardingScreenOne"}>On Boarding</Link>
     </View>
   )
 }
