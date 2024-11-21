@@ -4,10 +4,13 @@ export default {
     onBoardingImageThree: require('@/assets/images/onBoarding/bulb.png'),
     authImageOne: require('@/assets/images/layout/logo.png'),
     authEmailIcon: require('@/assets/images/auth/email-svgrepo-com.png'),
+    authUserIcon: require('@/assets/images/auth/user-alt-1-svgrepo-com.png'),
     authPasswordIcon: require('@/assets/images/auth/password-svgrepo-com.png'),
     authPhoneIcon: require('@/assets/images/auth/phone-svgrepo-com.png'),
     authGoogleIcon: require('@/assets/images/auth/google-color-svgrepo-com.png'),
     authFacebookIcon: require('@/assets/images/auth/facebook-color-svgrepo-com.png'),
     authAppleIcon: require('@/assets/images/auth/apple-color-svgrepo-com.png'),
     authCrossIcon: require('@/assets/images/auth/cross-circle-svgrepo-com.png'),
+    authEyeIcon: require('@/assets/images/auth/eye-svgrepo-com.png'),
+    authEyeSlashIcon: require('@/assets/images/auth/eye-slash-svgrepo-com.png'),
 }
