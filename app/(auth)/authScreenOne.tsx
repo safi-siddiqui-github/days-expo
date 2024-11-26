@@ -63,7 +63,7 @@ export default function Page() {
                     </View>
                 </TouchableOpacity>
 
-                <TouchableOpacity onPress={() => { }}>
+                <TouchableOpacity onPress={() => { router.navigate('/(auth)/authPhoneNumberScreenOne') }}>
                     <View className="p-2 bg-white rounded-md">
                         <View className="flex flex-row gap-x-2 items-center justify-center">
                             <View className="w-8 h-8">

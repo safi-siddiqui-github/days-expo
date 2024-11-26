@@ -132,7 +132,7 @@ export default function Page() {
                             </View>
 
                             <View>
-                                <TouchableOpacity onPress={() => { }}>
+                                <TouchableOpacity onPress={() => { router.navigate('/(auth)/authEmailVerificationScreenOne') }}>
                                     <View className="p-2 bg-blue-700 rounded-md flex items-center">
                                         <Text className="font-medium text-xl text-white">Sign Up</Text>
                                     </View>

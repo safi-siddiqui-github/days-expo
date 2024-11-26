@@ -6,7 +6,7 @@ export default function Page() {
     <View className="p-5 flex gap-y-5">
       <Text className="text-xl">Home</Text>
       <Link href={"/(onBoarding)/onBoardingScreenOne"}>On Boarding</Link>
-      <Link href={"/(auth)/authSignInScreen"}>SIgn In</Link>
+      <Link href={"/(auth)/authScreenOne"}>Auth</Link>
     </View>
   )
 }

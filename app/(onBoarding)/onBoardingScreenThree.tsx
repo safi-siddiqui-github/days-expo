@@ -22,7 +22,7 @@ export default function Page() {
                         <Text className="text-white text-center font-medium text-xl">Get Started</Text>
                     </View>
                 </TouchableOpacity>
-                <TouchableOpacity onPress={() => { router.navigate("/(auth)/authScreenOne") }}>
+                <TouchableOpacity onPress={() => { router.navigate("/(auth)/authSignInScreen") }}>
                     <View className="p-2 border border-blue-700 rounded-md">
                         <Text className="text-blue-700 text-center font-medium text-xl">Login</Text>
                     </View>

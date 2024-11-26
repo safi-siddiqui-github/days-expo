@@ -6,6 +6,9 @@ export default {
     authEmailIcon: require('@/assets/images/auth/email-svgrepo-com.png'),
     authUserIcon: require('@/assets/images/auth/user-alt-1-svgrepo-com.png'),
     authPasswordIcon: require('@/assets/images/auth/password-svgrepo-com.png'),
+    authPasswordXIcon: require('@/assets/images/auth/password-x-svgrepo-com.png'),
+    authPasswordLockIcon: require('@/assets/images/auth/lock-password-svgrepo-com.png'),
+    authPasswordLockKeyholeIcon: require('@/assets/images/auth/lock-keyhole-svgrepo-com.png'),
     authPhoneIcon: require('@/assets/images/auth/phone-svgrepo-com.png'),
     authGoogleIcon: require('@/assets/images/auth/google-color-svgrepo-com.png'),
     authFacebookIcon: require('@/assets/images/auth/facebook-color-svgrepo-com.png'),
@@ -13,4 +16,8 @@ export default {
     authCrossIcon: require('@/assets/images/auth/cross-circle-svgrepo-com.png'),
     authEyeIcon: require('@/assets/images/auth/eye-svgrepo-com.png'),
     authEyeSlashIcon: require('@/assets/images/auth/eye-slash-svgrepo-com.png'),
+    authForgotPasswordScreenOne: require('@/assets/images/auth/forgot-password-one.png'),
+    authEmailVerificationScreenOne: require('@/assets/images/auth/email-verification.png'),
+    authCountryCodeIcon: require('@/assets/images/auth/flag-svgrepo-com.png'),
+    authPhoneNumberScreenTwo: require('@/assets/images/auth/phone-verification.png'),
 }
